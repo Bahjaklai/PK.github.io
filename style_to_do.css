@@ -1,0 +1,18 @@
+body{
+    /* background : url('R1.jpg');   /* inserer une image*/
+    /* background: linear-gradient(45deg, #f97491, #4764f9);*/
+    background: linear-gradient(45deg, #efd5db, #aeb5d7);
+     height: 100vh;
+     background-size: cover ;  /* COVRER TOUTE L'espace*/
+     background-repeat: no-repeat; /* NE LE REPETER*/
+     /*animation: animateBg 5s linear infinite;*/
+   }
+   h1{
+    color: blue;
+    text-align: center;
+
+   }
+   input{
+    width: 100px;
+    margin: 10px 0;
+   }
